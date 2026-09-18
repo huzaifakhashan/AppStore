@@ -101,3 +101,12 @@ flutter test
   <img src="screenshots/settings.png" width="200" alt="Settings screen" />
 </p>
 
+
+## 📥 Download the App
+
+👉 [Download Groupify APK V1.0.0](https://github.com/huzaifakhashan/AppStore/releases/tag/v1.0.0)
+
+
+
+
+
