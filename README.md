@@ -88,5 +88,16 @@ flutter test
 
 ## Screenshots
 
-_Add a few screenshots or a screen recording here before sharing the repo —
-the home, details, and library screens are good ones to show._
+<p align="center">
+  <img src="screenshots/home.png" width="200" alt="Home screen" />
+  <img src="screenshots/search.png" width="200" alt="Search screen" />
+  <img src="screenshots/categories.png" width="200" alt="Categories screen" />
+  <img src="screenshots/category_games.png" width="200" alt="Games category listing" />
+</p>
+<p align="center">
+  <img src="screenshots/app_details.png" width="200" alt="App details screen" />
+  <img src="screenshots/library.png" width="200" alt="Library screen" />
+  <img src="screenshots/drawer.png" width="200" alt="Navigation drawer" />
+  <img src="screenshots/settings.png" width="200" alt="Settings screen" />
+</p>
+
