@@ -1,0 +1,154 @@
+{
+  "@@locale": "en",
+
+  "navStore": "Store",
+  "navSearch": "Search",
+  "navCategories": "Categories",
+  "navLibrary": "Library",
+
+  "switchToLightMode": "Switch to light mode",
+  "switchToDarkMode": "Switch to dark mode",
+
+  "searchHint": "Search apps, games, and more",
+  "browseCategories": "Browse categories",
+  "noResultsFor": "No results for \"{query}\"",
+  "@noResultsFor": {
+    "placeholders": { "query": { "type": "String" } }
+  },
+  "tryDifferentSearch": "Try a different name, developer, or category.",
+
+  "topCharts": "Top charts",
+  "newAndUpdated": "New & updated",
+  "seeAll": "See all",
+
+  "categoriesTitle": "Categories",
+  "appsCount": "{count, plural, one{1 app} other{{count} apps}}",
+  "@appsCount": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+
+  "sortTopRated": "Top rated",
+  "sortMostDownloaded": "Most downloaded",
+  "sortNameAZ": "Name (A-Z)",
+  "noAppsInCategory": "No apps in this category yet.",
+
+  "removeFromWishlist": "Remove from wishlist",
+  "addToWishlist": "Add to wishlist",
+  "share": "Share",
+  "sharingNotWired": "Sharing is not wired up in this demo.",
+  "reviewsCount": "{count} reviews",
+  "@reviewsCount": {
+    "placeholders": { "count": { "type": "String" } }
+  },
+  "downloadsLabel": "Downloads",
+  "adsValue": "Ads",
+  "containsAds": "Contains ads",
+  "noAds": "No ads",
+  "sizeLabel": "Size",
+
+  "aboutThisApp": "About this app",
+  "readMore": "Read more",
+  "showLess": "Show less",
+  "versionLabel": "Version",
+  "updatedLabel": "Updated",
+  "categoryLabel": "Category",
+  "priceLabel": "Price",
+  "ratingsAndReviews": "Ratings and reviews",
+  "helpfulCount": "Helpful ({count})",
+  "@helpfulCount": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+
+  "myApps": "My apps",
+  "installedSummary": "{count, plural, one{1 app installed} other{{count} apps installed}} · {size} used",
+  "@installedSummary": {
+    "placeholders": {
+      "count": { "type": "int" },
+      "size": { "type": "String" }
+    }
+  },
+  "noAppsInstalled": "No apps installed yet",
+  "installedAppsHint": "Apps you install from the store will show up here.",
+
+  "wishlistTitle": "Wishlist",
+  "wishlistEmpty": "Your wishlist is empty",
+  "wishlistEmptyHint": "Tap the heart icon on an app's page to save it here.",
+
+  "settingsTitle": "Settings",
+  "darkTheme": "Dark theme",
+  "darkThemeSubtitle": "Switch between light and dark appearance",
+  "language": "Language",
+  "languageSystem": "System default",
+  "languageEnglish": "English",
+  "languageArabic": "العربية",
+  "resetDemoData": "Reset demo data",
+  "resetDemoDataSubtitle": "Uninstalls every app and clears your wishlist",
+  "resetDemoDataConfirmTitle": "Reset demo data?",
+  "resetDemoDataConfirmBody": "This uninstalls every app and clears your wishlist. It cannot be undone.",
+  "cancel": "Cancel",
+  "reset": "Reset",
+  "demoDataReset": "Demo data has been reset.",
+
+  "aboutScreenTitle": "About Nova Store",
+  "versionBuildLabel": "Version 1.0.0 · Demo build",
+  "aboutDescription": "Nova Store is a fictional app marketplace built to showcase Flutter UI and state-management patterns. Every app, developer, and review you see is invented for demo purposes — nothing here connects to a real store or backend.",
+  "enjoyingNovaStore": "Enjoying Nova Store?",
+  "thanksForRating": "{stars, plural, one{Thanks for the 1-star rating!} other{Thanks for the {stars}-star rating!}}",
+  "@thanksForRating": {
+    "placeholders": { "stars": { "type": "int" } }
+  },
+  "thanksForRatingDemo": "{stars, plural, one{Thanks for your 1-star rating! (demo only)} other{Thanks for your {stars}-star rating! (demo only)}}",
+  "@thanksForRatingDemo": {
+    "placeholders": { "stars": { "type": "int" } }
+  },
+  "getInTouch": "Get in touch",
+  "emailCopied": "Email copied to clipboard",
+  "phoneCopied": "Phone number copied to clipboard",
+  "githubCopied": "GitHub link copied to clipboard",
+  "builtWithFlutter": "Built with Flutter",
+
+  "drawerTagline": "Discover your next favorite app",
+  "drawerFooter": "Nova Store v1.0.0 · Demo build",
+
+  "install": "Install",
+  "open": "Open",
+  "appWouldOpen": "{name} would open now — this is a demo app.",
+  "@appWouldOpen": {
+    "placeholders": { "name": { "type": "String" } }
+  },
+  "uninstallConfirmTitle": "Uninstall {name}?",
+  "@uninstallConfirmTitle": {
+    "placeholders": { "name": { "type": "String" } }
+  },
+  "uninstallConfirmBody": "You can always reinstall it later.",
+  "uninstall": "Uninstall",
+
+  "editorsChoice": "EDITOR'S CHOICE",
+
+  "free": "Free",
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "daysAgo": "{count, plural, one{1 day ago} other{{count} days ago}}",
+  "@daysAgo": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+  "monthsAgo": "{count, plural, one{1 month ago} other{{count} months ago}}",
+  "@monthsAgo": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+  "yearsAgo": "{count, plural, one{1 year ago} other{{count} years ago}}",
+  "@yearsAgo": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+
+  "categoryGames": "Games",
+  "categorySocial": "Social",
+  "categoryProductivity": "Productivity",
+  "categoryPhotography": "Photography",
+  "categoryMusic": "Music & Audio",
+  "categoryHealth": "Health & Fitness",
+  "categoryEducation": "Education",
+  "categoryFinance": "Finance",
+  "categoryEntertainment": "Entertainment",
+  "categoryTools": "Tools"
+}
