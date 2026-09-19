@@ -1,5 +1,9 @@
 # Nova Store
 
+🌐 **Live Website:**
+
+  http://novapp.xo.je/?i=1
+
 A polished, fully offline app-marketplace UI built with Flutter — a portfolio
 piece showcasing UI/UX craftsmanship, state management, and clean project
 structure. All apps, developers, and reviews are fictional demo data.
